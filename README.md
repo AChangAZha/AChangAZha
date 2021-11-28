@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AChangAZha
-- 👀 I’m interested in C language.
-- 🌱 I’m currently learning C language.
+- 👀 I’m interested in C language/C++.
+- 🌱 I’m currently learning Java.
 - 💞️ I’m studying at Dongguan University of Technology(DGUT).
 - 📫 How to reach me? e-mail:202041404130@dgut.edu.cn
 
